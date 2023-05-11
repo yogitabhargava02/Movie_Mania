@@ -1,0 +1,47 @@
+.confirmation-page {
+    text-align: center;
+    background-color: #f2f2f2;
+    background-image: url('https://img.freepik.com/free-photo/movie-background-collage_23-2149876003.jpg?w=996&t=st=1683787330~exp=1683787930~hmac=b6c46fbc373561cf4cebf366dbac1a1fc498e05ff7582804c4014e153077379e');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 900px; 
+    width: 100%; 
+    
+
+}
+  
+  .confirmation-content {
+    padding: 20px;
+  }
+  
+  .confirmation-heading {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .confirmation-details {
+    margin-top: 40px;
+  }
+  
+  .congratulations {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .seat-booked {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .booking-info {
+    margin-top: 30px;
+  }
+  
+  .booking-info p {
+    margin-bottom: 10px;
+  }
+  
+  .info-label {
+    font-weight: bold;
+  }
+  
